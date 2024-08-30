@@ -1,0 +1,26 @@
+*{
+    background-color:   #f3e69a;
+    
+}
+#img1{
+    border: 5px solid darkred;
+    border-radius : 75%; 
+    margin-right: 150px;
+}
+h1 {
+    
+    color:hwb(0 6% 29%);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    
+    
+
+}
+p{
+    color: darkred;
+}
+h5{
+    color:hsla(0, 100%, 25%, 0.767); 
+}
+
+  
